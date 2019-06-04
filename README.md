@@ -1,4 +1,4 @@
-### Note: This is a back-up repository since the original repository is deleted (https://github.com/OhGodACompany/OhGodATool) I created this one for anyone who might need this tool.
+### Note: This is a back-up repository since the original repository is deleted (https://github.com/OhGodACompany/OhGodATool) I created this one for anyone who might need this tool. You can download the prebuilt binary under release section.
 
 OhGodATool allows you to edit PowerPlay in the VBIOS, or in the kernel's pp_table. You can edit clock, memory, or voltage tables.
 
